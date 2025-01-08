@@ -1,5 +1,5 @@
 # Adapted for my workspace
-I've adapted the source code to run on my computer. This repo just exists as a backup. Please download/clone the origina from https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2 and give him  a star whilst you are there.
+I've adapted the source code to run on my computer. This repo just exists as a backup. Please download/clone the original from https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2 and give him  a star whilst you are there.
 
 
 # Raylib-CPP-Starter-Template-for-VSCODE-V2
