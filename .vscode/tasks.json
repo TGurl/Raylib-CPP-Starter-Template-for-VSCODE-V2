@@ -30,9 +30,9 @@
             "linux": {
                 "args": [
                     "PROJECT_NAME=${fileBasenameNoExtension}",
-                    "DESTDIR=/home/linuxbrew/.linuxbrew",
+                    "DESTDIR=/lore/src/c/builds",
                     "RAYLIB_LIBTYPE=SHARED",
-                    "EXAMPLE_RUNTIME_PATH=/home/linuxbrew/.linuxbrew/lib",
+                    "EXAMPLE_RUNTIME_PATH=/lore/src/c/lib",
                     "OBJS=src/*.cpp",
                     "BUILD_MODE=DEBUG"
                 ]
@@ -69,9 +69,9 @@
             "linux": {
                 "args": [
                     "PROJECT_NAME=${fileBasenameNoExtension}",
-                    "DESTDIR=/home/linuxbrew/.linuxbrew",
+                    "DESTDIR=/lore/src/c/builds",
                     "RAYLIB_LIBTYPE=SHARED",
-                    "EXAMPLE_RUNTIME_PATH=/home/linuxbrew/.linuxbrew/lib",
+                    "EXAMPLE_RUNTIME_PATH=/lore/src/c/lib",
                     "OBJS=src/*.cpp"
                 ]
             },
@@ -82,7 +82,7 @@
                 "kind": "build",
                 "isDefault": false
             },
-            "detail": "compiler: C:\\raylib\\w64devkit\\bin\\g++.exe"
+            "detail": "compiler: /usr/bin/g++"
         }
     ]
 }

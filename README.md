@@ -1,3 +1,7 @@
+# Adapted for my workspace
+I've adapted the source code to run on my computer. This repo just exists as a backup. Please download/clone the origina from https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2 and give him  a star whilst you are there.
+
+
 # Raylib-CPP-Starter-Template-for-VSCODE-V2
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 This demo project contains a bouncing ball raylib example program.
